@@ -1,4 +1,4 @@
-# Material_UI_Palette
+# Material UI Palette
 Copy official Material UI colors to the clipboard in Hex, RGB or RGBA values
 
-Built in jQuery, html, and CSS.
+Built in vanilla JS, html, and CSS.
